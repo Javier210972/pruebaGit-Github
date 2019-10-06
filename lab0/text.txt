@@ -1,0 +1,6 @@
+(1) Se podrpia realizar una busqueda binaria. Asi en vez de recorrer
+toda la serie de números, la busqueda se reduciría a encontrar los 
+de  interes del argumento mandado. Lo que significaría menos proceso computacional.
+(2) Un método que tenga como parametro un arreglo, este se irá llenando por un return del mismo 
+método.
+evaluara todos los datos y los almacenará para su posterior despliegue. 
